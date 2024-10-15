@@ -1,0 +1,14 @@
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\bin\Debug\net8.0\InventarioProductos.exe
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\bin\Debug\net8.0\InventarioProductos.deps.json
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\bin\Debug\net8.0\InventarioProductos.runtimeconfig.json
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\bin\Debug\net8.0\InventarioProductos.dll
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\bin\Debug\net8.0\InventarioProductos.pdb
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.AssemblyInfoInputs.cache
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.AssemblyInfo.cs
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.csproj.CoreCompileInputs.cache
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.dll
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\refint\InventarioProductos.dll
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.pdb
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\InventarioProductos.genruntimeconfig.cache
+C:\Users\Amaru_2023\Desktop\GitNuevo\InventarioProductos\obj\Debug\net8.0\ref\InventarioProductos.dll
